@@ -1,8 +1,8 @@
 {
-  "name": "kross",
+  "name": "transall",
   "version": "1.0.1",
-  "description": "kross free personal portfolio template",
-  "author": "Themefisher",
+  "description": "transall",
+  "author": "Fusionbit",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",
